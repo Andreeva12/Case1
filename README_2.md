@@ -24,8 +24,9 @@ This assignment is designed to enhance your practical skills in managing databas
     ```
 
 ### 3. Add Tables According to the Schema
+
 - **Schema Image:**
-  ![Database Schema](schema.jpg)
+  ![Database Schema](shema.jpg)
 - **Instructions:**
   - Create tables as per the attached schema `Figure 1`.
   - Fields, relationships must match the schema; integrity constraints, uniqueness, default values, and data types are at the discretion of the intern.
